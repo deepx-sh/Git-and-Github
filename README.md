@@ -29,3 +29,5 @@ GitHub is widely used by developers to host and share their code, collaborate wi
 - `git status`: Check the status of your local repository, including untracked files and changes to be committed.
 - `git add <file>`: Stage changes to a file for commit.
 - `git commit -m "<message>"`: Commit staged changes with a descriptive message.
+- `git push`: Push committed changes to the remote repository.
+- `git init`: Initialize a new Git repository in the current directory.
