@@ -31,3 +31,7 @@ GitHub is widely used by developers to host and share their code, collaborate wi
 - `git commit -m "<message>"`: Commit staged changes with a descriptive message.
 - `git push`: Push committed changes to the remote repository.
 - `git init`: Initialize a new Git repository in the current directory.
+- `git remote add <name> <url>`: Add a remote repository to your local repository.
+- `git remote -v`: List the remote repositories associated with your local repository.
+- `git push -u origin <branch>`: Push changes to the remote repository and set the upstream branch.
+- `git commit -am "<message>"`: Commit all changes to tracked files with a descriptive message.
